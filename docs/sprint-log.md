@@ -3,7 +3,7 @@
 ## Sprint 1 (Week 3 lab)
 
 ### Sprint goal
-[One sentence: what do you want to finish by the end of this lab?]
+One sentence: By the end of this assignment, I have completed the documentation of acceptance criteria, requirements, structure and roadmap to README, problem statement and specialized technology.
 
 ### Sprint backlog
 | Issue | Task | Status |
