@@ -11,4 +11,3 @@ As a parent or a guardian, it is important to monitor your child's YouTube watch
 
 ## Problem statement (3 to 5 sentences)
 Children who are in the developing stage mentally and emotionally as well their parents or guardians are affected by the presence of inappropriate content on YouTube. This is due to harmful content like Elsagate, which is a form of content that depicts popular characters in inappropriate acts like, slipping through already existing content moderation and filtering systems. Since children from the age of 12 and below lack critical thinking skills to recognise potentially harmful content, parents and guardians may find it difficult to monitor their child's YouTube watch history. Long-term exposure to disturbing content may negatively affect the child's well-being mentally.
- git s
