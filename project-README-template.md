@@ -1,4 +1,4 @@
-# Project Title: Web-Based Detection of Harmful Elsagate Content in YouTube Videos 
+# Project Title: Web-Based Detection of Harmful Elsagate Content in Children's Entertainment Videos Using Deep Learning 
 
 This project helps parents and guardians monitor their children's YouTube watchlist by screening videos for potential Elsagate-related content without relying solely on platform's automated content moderation and filtering that may miss content like this.
 
