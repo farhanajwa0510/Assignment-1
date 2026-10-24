@@ -2,10 +2,9 @@
 
 Format: As a [type of user], I want [goal], so that [reason or benefit].
 
-1. As a parent or guardian, I want to retrieve up to 10 available videos from my selected YouTube channel, so that I could identify potentially concerning Elsafate content for further review. (FR1)
+1. As a parent or guardian, I want to retrieve up to 10 available videos from my selected YouTube channel, so that I could identify potentially concerning Elsagate content for further review. (FR1)
 
 Acceptance criteria (1) 
-Acceptance criteria 
 a. I can enter and search for the YouTube channel I would like to review.
 b. I can view up to 10 available videos should be retrieved after YouTube channel is selected.
 
