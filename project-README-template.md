@@ -14,4 +14,4 @@ Children who are in the developing stage mentally and emotionally as well their 
 Planning (CSC649, Week 2)
 
 ## Author
-
+NUR FARHA NAJWA BINTI MOHAMMAD FAHMY 
