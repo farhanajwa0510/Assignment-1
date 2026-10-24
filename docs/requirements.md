@@ -16,5 +16,5 @@
 
 1. The system shall display the screening results of a video within 10 seconds after analysis is done (NFR2)
 
-3. The system shall users to access the main's dashboards functions within 3 seconds (NFR3)
+3. The system shall allow users to access the dashboard's main functions within 3 seconds after succcesfully logging in (NFR3)
 
